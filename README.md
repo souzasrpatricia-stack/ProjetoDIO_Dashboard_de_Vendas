@@ -9,3 +9,7 @@
 
 # com base nos dados aqui analisados
 
+<img width="1120" height="614" alt="image" src="https://github.com/user-attachments/assets/c756d0ad-3b91-40f4-9c6d-c0c064be760e" />
+
+
+Dashboard File => 
